@@ -1,0 +1,6 @@
+C:\Users\calei\Documents\0.Fullstack\Codificação para Back-End\_Senai\Projeto_Web-Lh_Pets_Alunos\obj\Release\net7.0\Projeto_Web-Lh_Pets_Alunos.csproj.AssemblyReference.cache
+C:\Users\calei\Documents\0.Fullstack\Codificação para Back-End\_Senai\Projeto_Web-Lh_Pets_Alunos\obj\Release\net7.0\Projeto_Web-Lh_Pets_Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calei\Documents\0.Fullstack\Codificação para Back-End\_Senai\Projeto_Web-Lh_Pets_Alunos\obj\Release\net7.0\Projeto_Web-Lh_Pets_Alunos.AssemblyInfoInputs.cache
+C:\Users\calei\Documents\0.Fullstack\Codificação para Back-End\_Senai\Projeto_Web-Lh_Pets_Alunos\obj\Release\net7.0\Projeto_Web-Lh_Pets_Alunos.AssemblyInfo.cs
+C:\Users\calei\Documents\0.Fullstack\Codificação para Back-End\_Senai\Projeto_Web-Lh_Pets_Alunos\obj\Release\net7.0\Projeto_Web-Lh_Pets_Alunos.csproj.CoreCompileInputs.cache
+C:\Users\calei\Documents\0.Fullstack\Codificação para Back-End\_Senai\Projeto_Web-Lh_Pets_Alunos\obj\Release\net7.0\Projeto_Web-Lh_Pets_Alunos.MvcApplicationPartsAssemblyInfo.cache
