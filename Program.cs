@@ -7,7 +7,7 @@ public class Program
         var builder = WebApplication.CreateBuilder(args);
         var app = builder.Build();
 
-        app.MapGet("/", () => "Projeto web - LH Pets versão 1");
+        app.MapGet("/", () => "Projeto web-LH Pets versão 1");
 
         app.UseStaticFiles();
         app.MapGet("/index", (HttpContext contexto)=> {
